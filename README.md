@@ -5,7 +5,8 @@
 ### Description
 ---
 AR 가구 배치 서비스는 가구에 해당하는 QR 이미지를 카메라로 스캔하면 해당 가구의 사용법, 제품서를 AR로 보여주고, 가구의 모델이 AR로 화면에 나타냅니다.  
-또한, 사용자가 가구를 크기 조절, 회전 및 이동시켜 직접 배치해 볼 수 있습니다.
+또한, 사용자가 가구를 크기 조절, 회전 및 이동시켜 직접 배치해 볼 수 있습니다.  
+<a href ="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR%20%EC%84%9C%EB%B9%84%EC%8A%A4.pdf"> 서비스 설명 PDF </a>
 
 ### 기술 스택 
 <table>
@@ -37,6 +38,7 @@ AR 가구 배치 서비스는 가구에 해당하는 QR 이미지를 카메라�
     <tbody>
     	<tr>
             <th style="text-align: center"><img src="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR.png" style="zoom:80%;" alert = "프로젝트 이미지" /></th>
+             <th style="text-align: center"><img src="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR2.PNG" style="zoom:80%;" alert = "프로젝트 이미지" /></th>
         </tr>
     </tbody>
 </table>
