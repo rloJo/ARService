@@ -37,8 +37,8 @@ AR 가구 배치 서비스는 가구에 해당하는 QR 이미지를 카메라�
 <table>
     <tbody>
     	<tr>
-            <th style="text-align: center"><img src="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR.png" style="zoom:80%;" alert = "프로젝트 이미지" /></th>
-             <th style="text-align: center"><img src="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR2.PNG" style="zoom:80%;" alert = "프로젝트 이미지" /></th>
+            <th style="text-align: center"><img src="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR.png" width ="600" height ="250" alert = "프로젝트 이미지" /></th>
+             <th style="text-align: center"><img src="https://github.com/rloJo/ARService/blob/main/ReadMeAsset/AR2.PNG" width ="600" height ="250";" alert = "프로젝트 이미지" /></th>
         </tr>
     </tbody>
 </table>
